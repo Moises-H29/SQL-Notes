@@ -12,6 +12,7 @@ MySQL installation comes with some default schemas (or databases), which are:
 * mysql
 * performance_schema
 * sys
+
 In order to see these databases or those in existence, you must write the following command:
 ```
 SHOW DATABASES;
