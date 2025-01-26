@@ -17,7 +17,8 @@ In order to see these databases or those in existence, you must write the follow
 ```
 SHOW DATABASES;
 ```
-> **_NOTE:_**  The use of semicolons is mandatory in all SQL commands<br>
+> **_NOTE:_**  The use of semicolons is mandatory in all SQL commands
+
 If you want to create a new database, named "test" in this example, you have to use the following command:
 ```
 CREATE DATABASE test;
