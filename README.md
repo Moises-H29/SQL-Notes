@@ -7,10 +7,11 @@ SQL stands for Structured Query Language, is a standard language which allows yo
 
 ## Creating a database in SQL
 MySQL installation comes with some default schemas (or databases), which are:
-*information_schema
-*mysql
-*performance_schema
-*sys
+
+* information_schema
+* mysql
+* performance_schema
+* sys
 In order to see these databases or those in existence, you must write the following command:
 ```
 SHOW DATABASES;
