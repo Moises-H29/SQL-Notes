@@ -30,7 +30,9 @@ CREATE SCHEMA test;
 ```
 ## Select a database to work with
 Perfect! Now we have our new database in our list.
+
 Now imagine that we want to create some tables using our data in this database
+
 Before you can modify a database you have to select it with the next command:
 ```
 USE test;
