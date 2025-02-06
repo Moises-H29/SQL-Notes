@@ -37,3 +37,12 @@ Before you can modify a database you have to select it with the next command:
 ```
 USE test;
 ```
+
+As you already know, every database is made of tables with a unique identifier (or ID)
+So, you'll want to create some tables in your DB to place your data
+
+We will use the **CREATE TABLE** command followed by the name of our table
+
+```
+CREATE TABLE services(id );
+```
